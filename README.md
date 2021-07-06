@@ -1,4 +1,4 @@
-# Election-Analysis
+# Election Analysis using Python
 ## Overview of Election Audit
 A Colorado Board of Elections employee has given the following tasks to complete audit of a recent local congressional election.
 1.	Calculate the total number of votes cast.
