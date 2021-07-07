@@ -26,7 +26,7 @@ Raymon Anthony Doane received 3.1% of the vote and 11,606 of votes
 -	The winner of the election was:
 Diana DeGette, who received 73.8% of the vote and 272,892 of votes
 ## Election-Audit Summary
-The solution provide in the current script can be leveraged largely in any board of election audit which not only provide the accurate details and summary report but, accelerate the ability to create the report quickly with little or no modification.
+The solution provide in the current script can be leveraged largely in any board of election audit which not only provide the accurate details and summary report but, accelerate the process of creating the report with little or no modification.
 Following are the two examples where the current script can be used with small modifications:
 1.	With small difference in Input (.csv) file): in case the input .csv file is structurally little different; we need to correctly reference the appropriate column index to refer candidate and/or county name to reflect correct result.
 2.	Requested different report format: in case the report format needs to modify (e.g., candidate summary), the section at the end of the script (winning_candidate_summary) can be changed to meet the requirement
